@@ -15,4 +15,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/priyansh21112002/Leetcode/tree/master/0027-remove-element) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/priyansh21112002/Leetcode/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
