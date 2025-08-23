@@ -7,10 +7,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/priyansh21112002/Leetcode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/priyansh21112002/Leetcode/tree/master/0066-plus-one) |
 ## Array
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/priyansh21112002/Leetcode/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/priyansh21112002/Leetcode/tree/master/0066-plus-one) |
 ## Two Pointers
 |  |
 | ------- |
