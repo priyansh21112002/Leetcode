@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0009-palindrome-number](https://github.com/priyansh21112002/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/priyansh21112002/Leetcode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/priyansh21112002/Leetcode/tree/master/0070-climbing-stairs) |
 ## Array
 |  |
 | ------- |
@@ -21,4 +22,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/priyansh21112002/Leetcode/tree/master/0058-length-of-last-word) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/priyansh21112002/Leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/priyansh21112002/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
