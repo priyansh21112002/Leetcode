@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0027-remove-element](https://github.com/priyansh21112002/Leetcode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/priyansh21112002/Leetcode/tree/master/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/priyansh21112002/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
 |  |
 | ------- |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/priyansh21112002/Leetcode/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/priyansh21112002/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Memoization
 |  |
 | ------- |
