@@ -9,18 +9,21 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/priyansh21112002/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/priyansh21112002/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/priyansh21112002/Leetcode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/priyansh21112002/Leetcode/tree/master/0189-rotate-array) |
 ## Array
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/priyansh21112002/Leetcode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/priyansh21112002/Leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyansh21112002/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0189-rotate-array](https://github.com/priyansh21112002/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/priyansh21112002/Leetcode/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/priyansh21112002/Leetcode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/priyansh21112002/Leetcode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/priyansh21112002/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/priyansh21112002/Leetcode/tree/master/0283-move-zeroes) |
 ## String
 |  |
