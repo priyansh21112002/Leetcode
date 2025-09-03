@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/priyansh21112002/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/priyansh21112002/Leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyansh21112002/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0134-gas-station](https://github.com/priyansh21112002/Leetcode/tree/master/0134-gas-station) |
 | [0189-rotate-array](https://github.com/priyansh21112002/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/priyansh21112002/Leetcode/tree/master/0283-move-zeroes) |
 ## Two Pointers
@@ -54,4 +55,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/priyansh21112002/Leetcode/tree/master/0035-search-insert-position) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/priyansh21112002/Leetcode/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
