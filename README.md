@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/priyansh21112002/Leetcode/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/priyansh21112002/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/priyansh21112002/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/priyansh21112002/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/priyansh21112002/Leetcode/tree/master/0070-climbing-stairs) |
@@ -63,4 +64,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/priyansh21112002/Leetcode/tree/master/0134-gas-station) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/priyansh21112002/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
