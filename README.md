@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/priyansh21112002/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/priyansh21112002/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/priyansh21112002/Leetcode/tree/master/0070-climbing-stairs) |
+| [0172-factorial-trailing-zeroes](https://github.com/priyansh21112002/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/priyansh21112002/Leetcode/tree/master/0189-rotate-array) |
 ## Array
 |  |
